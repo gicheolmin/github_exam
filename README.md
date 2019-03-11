@@ -1,6 +1,7 @@
 # github_exam
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14,8 +15,11 @@
 # 송인창
 =======
 song song song
->>>>>>> song pull request
+
 =======
 song song song ss
 >>>>>>> song pull request
->>>>>>> song pull request
+
+=======
+# 기철민
+>>>>>>> test pull request
