@@ -1,9 +1,5 @@
 # github_exam
 
-song song song
-<<<<<<< HEAD
-
-=======
 song song song ss
 
 =======
@@ -13,7 +9,6 @@ rf
 =======
 song song song ss
 >>>>>>> song pull request
->>>>>>> song pull request
 =======
 # 이찬구
 >>>>>>> put name
@@ -22,3 +17,6 @@ tttttest
 
 
 test 2
+=======
+# 이찬구
+>>>>>>> put name
