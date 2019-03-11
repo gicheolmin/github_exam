@@ -19,4 +19,9 @@ tttttest
 test 2
 =======
 # 이찬구
+<<<<<<< HEAD
 >>>>>>> put name
+=======
+
+test #2
+>>>>>>> do not merge
